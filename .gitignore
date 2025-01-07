@@ -15,3 +15,6 @@ build/
 # IDE files
 .vscode/
 .idea/
+
+#папка с виртуальным окружением
+venv
